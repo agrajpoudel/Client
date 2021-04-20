@@ -1,0 +1,12 @@
+
+#profile-img {
+    height:180px;
+}
+.h-80 {
+    width: 60%;
+    margin-top: 10%;
+    height: 100% !important;
+    padding-bottom: 4%;
+    padding-top: 4%;
+    background-color: black;
+}
